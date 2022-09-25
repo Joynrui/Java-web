@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8">
+<person personid = "03">
+    <name>Max</name>
+    <age>20</age>
+    <sex>0</sex>
+    <fax>yes</fax>
+</person>
+<person personid = "03">
+    <name>Ason</name>
+    <age>10</age>
+    <sex>1</sex>
+    <fax>no</fax>
+</person>
+<person personid = "03">
+    <name>lily</name>
+    <age>21</age>
+    <sex>1</sex>
+    <fax>yes</fax>
+</person>
